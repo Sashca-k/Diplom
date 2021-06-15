@@ -1,0 +1,266 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&display=swap');
+
+.sale{
+
+    border: 2px double black ;
+
+}
+
+.name {
+    font-family: 'Bad Script', cursive;
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.card:hover {
+    -webkit-box-shadow: 0px 0px 45px 20px rgba(34, 60, 80, 0.26);
+    -moz-box-shadow: 0px 0px 45px 20px rgba(34, 60, 80, 0.26);
+    box-shadow: 0px 0px 45px 20px rgba(34, 60, 80, 0.26);
+
+
+}
+.postt{
+    height: 50px;
+    background-color: #000000;
+    color: white;
+}
+
+.photoDesc {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    padding-top: 20px;
+
+    color: #000000;
+}
+
+.dark-card {
+
+
+    background-color: #4F4F4F;
+    color: #FFFFFF;
+    padding: 35px 40px;
+
+
+}
+
+.zagol-slad {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 56px;
+
+    color: #FFFFFF;
+
+}
+
+.zagl {
+    margin-top: 80px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    /* identical to box height */
+
+
+    color: #000000;
+}
+
+.btn-slider {
+    padding: 20px 40px;
+    background: #4F4F4F;
+    border: 2px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 40px;
+
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 200;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: 0.05em;
+
+    color: #FFFFFF;
+
+}
+
+.menu-midd {
+    border-bottom: 1px solid #EFEFEF;
+    padding-bottom: 5px;
+}
+
+.callTell {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    text-decoration: none;
+
+    color: #000000;
+}
+
+.menu-top {
+    background: #E5E5E5;
+
+}
+
+.bottomtext {
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.lflfl {
+    display: inline-block !important;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #000000;
+}
+
+.icommm{
+    text-decoration: none; 
+}
+
+.bottm-next {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 28px;
+    display: block;
+    /* or 233% */
+
+
+    /* #828282 */
+
+    color: #828282;
+    text-decoration: none;
+}
+
+.card-top {
+    margin-top: 20px !important;
+
+}
+
+.btn-dost {
+    background: #4F4F4F;
+    border: 2px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 30px;
+    color: white;
+    padding: 9px 25px;
+}
+
+.btn-dost:hover {
+    background: white;
+
+    color: black;
+
+}
+
+.email-search {
+    background: #FFFFFF;
+    border-radius: 30px;
+    border: none;
+    height: 40px;
+    width: 250px;
+    padding-left: 30px;
+
+}
+
+
+
+.menu-search {
+    background: #EFEFEF;
+    border-radius: 40px;
+    border: none;
+    height: 40px;
+    width: 250px;
+    padding-left: 50px;
+
+}
+
+.link-top {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    /* identical to box height */
+
+
+    /* Dark */
+
+    color: #333333;
+
+}
+
+.next {
+    width: 26px;
+    height: 26px;
+    line-height: 26px;
+    text-align: center;
+    margin-right: -40px;
+    position: relative;
+    z-index: 1;
+    float: left;
+
+}
+
+.mewo {
+    text-align: right;
+}
+
+.btmtr {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    /* identical to box height */
+
+
+    /* #828282 */
+
+    color: #828282;
+
+}
+
+.mewo .mewww {
+    display: inline-block;
+    /* inline-block занимает ширину содержимого, max-width её ограничивает */
+
+
+}
+
+.btn-bottt {
+    color: black;
+    background: #FFFFFF;
+    /* Gray 2 */
+
+    border: 2px solid #4F4F4F;
+    box-sizing: border-box;
+    border-radius: 40px;
+    padding: 10px 27px;
+
+}
